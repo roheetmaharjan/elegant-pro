@@ -1,0 +1,13 @@
+#sub-accordion-section-bloggerbuz_demo_import_section .customize-control {
+  border-radius: 5px;
+  padding-bottom: 10px;
+}
+.demo-import-button {
+  text-decoration: none;
+  color: #666;
+  display: inline-block;
+  background-color: #f7f7f7;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
